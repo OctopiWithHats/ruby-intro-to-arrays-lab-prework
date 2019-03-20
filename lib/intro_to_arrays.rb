@@ -9,4 +9,4 @@ def array_with_two_elements
 end
 
 def third_element (my_third_element)
-  @taylor_swift = ["Blank Space", ]
+  @taylor_swift = ["Welcome to New York", "Blank Space", "Style", ]
