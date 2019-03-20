@@ -8,5 +8,5 @@ def array_with_two_elements
   @my_two_array = array_with_two_elements
 end
 
-def third_element
+def third_element (my_third_element)
   
