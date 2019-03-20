@@ -1,2 +1,3 @@
 def instantiate_new_array
-  in
+  instantiate_new_array = []
+  
